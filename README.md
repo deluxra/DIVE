@@ -16,3 +16,8 @@ or
 Use Command:
 ```bash
 # Sudo apt update && sudo apt upgrade -y
+
+## Step 2: Install libfuse2
+```bash
+sudo apt install libfuse2
+
