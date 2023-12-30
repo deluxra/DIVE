@@ -6,7 +6,6 @@
 
 ## Step 1: Prepare Your Machine
 
-```bash
 Requirements:
 ✅WSL
 https://learn.microsoft.com/en-us/windows/wsl/install
