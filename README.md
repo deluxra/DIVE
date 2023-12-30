@@ -14,4 +14,5 @@ or
 [[https://apps.microsoft.com/detail/9PDXGNCFSCZV?hl=en-US...](https://apps.microsoft.com/detail/9PDXGNCFSCZV?hl=en-US&gl=US&fbclid=IwAR3NpkETDLUI9EqO3TkgWPKwR5g0Ht6A8gdmgAU4Sgs3F424F5PZ7_5Bskc)https://apps.microsoft.com/detail/9PDXGNCFSCZV?hl=en-US&gl=US&fbclid=IwAR3NpkETDLUI9EqO3TkgWPKwR5g0Ht6A8gdmgAU4Sgs3F424F5PZ7_5Bskc](https://apps.microsoft.com/detail/9PDXGNCFSCZV?hl=en-US&gl=US&fbclid=IwAR3NpkETDLUI9EqO3TkgWPKwR5g0Ht6A8gdmgAU4Sgs3F424F5PZ7_5Bskc)
 ✅After installing 
 Use Command:
+```bash
 # Sudo apt update && sudo apt upgrade -y
