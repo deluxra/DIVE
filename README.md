@@ -17,10 +17,11 @@ or
 ## Step 2: Install libfuse2
 
 ```bash
-\# sudo apt install libfuse2
+sudo apt install libfuse2
 
-## Step 3: Download **Owshen Wallet**
+## Step 3:
 
-```bash
-# wget https://github.com/OwshenNetwork/owshen/releases/download/v0.1.0/Owshen_v0.1.0_x86_64.AppImage
+
+
+
 
